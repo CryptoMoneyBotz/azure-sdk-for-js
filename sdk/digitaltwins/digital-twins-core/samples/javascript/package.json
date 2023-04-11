@@ -7,7 +7,7 @@
   "license": "MIT",
   "main": "dt_create_digitaltwins_service_client.js",
   "dependencies": {
-    "@azure/core-http": "^1.1.6",
+    "@azure/core-http": "^3.0.1",
     "@azure/digital-twins-core": "file:../..",
     "@azure/identity": "^1.1.0"
   }
