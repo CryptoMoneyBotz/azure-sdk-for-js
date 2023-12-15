@@ -9,6 +9,6 @@
   "dependencies": {
     "@azure/core-http": "^1.1.6",
     "@azure/digital-twins-core": "file:../..",
-    "@azure/identity": "^1.1.0"
+    "@azure/identity": "^2.0.0"
   }
 }
